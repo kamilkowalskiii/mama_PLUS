@@ -1,16 +1,23 @@
-# React + Vite
+# Mama Plus – ZUS Hackathon 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Aplikacja webowa stworzona w ramach hackathonu dla Zakładu Ubezpieczeń Społecznych (ZUS), której celem jest uproszczenie i przyspieszenie procesu ubiegania się o świadczenie uzupełniające **Mama 4+**.
 
-Currently, two official plugins are available:
+## 🎯 Cel projektu
+Rozwiązanie ma na celu zminimalizowanie barier biurokratycznych oraz wsparcie matek (i ojców) wychowujących co najmniej czworo dzieci w sprawnym sprawdzeniu uprawnień, skompletowaniu dokumentów oraz złożeniu wniosku o rodzicielskie świadczenie uzupełniające.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Główne funkcjonalności
+* **Interaktywny kalkulator/weryfikator uprawnień** – szybkie sprawdzenie w kilku prostych krokach, czy użytkownik spełnia kryteria przyznania świadczenia.
+* **Inteligentny kreator wniosku** – intuicyjny formularz prowadzący użytkownika za rękę i minimalizujący ryzyko popełnienia błędów formalnych.
+* **Lista wymaganych dokumentów** – dynamiczna checklista dopasowana do indywidualnej sytuacji życiowej wnioskodawcy.
+* **Przejrzysty i dostępny interfejs (WCAG)** – projekt dostosowany do potrzeb osób mniej biegłych cyfrowo, z czytelną typografią i prostym językiem.
 
-## React Compiler
+## 🛠️ Technologie
+* **Frontend:** React / Vite, HTML5, CSS3, JavaScript
+* **Narzędzia:** Node.js, Git
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 💻 Uruchomienie lokalne
+Aby uruchomić projekt lokalnie na swoim komputerze:
 
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+1. Sklonuj repozytorium:
+   ```bash
+   git clone [https://github.com/kamilkowalskiii/projekty_webowe.git](https://github.com/kamilkowalskiii/projekty_webowe.git)
